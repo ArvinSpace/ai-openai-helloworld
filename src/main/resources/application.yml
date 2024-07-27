@@ -1,4 +1,4 @@
 spring:
   ai:
     openai:
-      api-key:
+      api-key: sk-proj-
